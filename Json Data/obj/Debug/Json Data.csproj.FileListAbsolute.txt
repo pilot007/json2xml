@@ -1,0 +1,20 @@
+C:\Users\ERTUGAN\source\repos\Json Data\Json Data\bin\Debug\Json Data.exe.config
+C:\Users\ERTUGAN\source\repos\Json Data\Json Data\bin\Debug\Json Data.exe
+C:\Users\ERTUGAN\source\repos\Json Data\Json Data\bin\Debug\Json Data.pdb
+C:\Users\ERTUGAN\source\repos\Json Data\Json Data\obj\Debug\Json Data.csprojAssemblyReference.cache
+C:\Users\ERTUGAN\source\repos\Json Data\Json Data\obj\Debug\Json_Data.Form1.resources
+C:\Users\ERTUGAN\source\repos\Json Data\Json Data\obj\Debug\Json_Data.Properties.Resources.resources
+C:\Users\ERTUGAN\source\repos\Json Data\Json Data\obj\Debug\Json Data.csproj.GenerateResource.cache
+C:\Users\ERTUGAN\source\repos\Json Data\Json Data\obj\Debug\Json Data.csproj.CoreCompileInputs.cache
+C:\Users\ERTUGAN\source\repos\Json Data\Json Data\obj\Debug\Json Data.exe
+C:\Users\ERTUGAN\source\repos\Json Data\Json Data\obj\Debug\Json Data.pdb
+C:\setup\Json Data\Json Data\bin\Debug\Json Data.exe.config
+C:\setup\Json Data\Json Data\bin\Debug\Json Data.exe
+C:\setup\Json Data\Json Data\bin\Debug\Json Data.pdb
+C:\setup\Json Data\Json Data\obj\Debug\Json Data.csprojAssemblyReference.cache
+C:\setup\Json Data\Json Data\obj\Debug\Json_Data.Form1.resources
+C:\setup\Json Data\Json Data\obj\Debug\Json_Data.Properties.Resources.resources
+C:\setup\Json Data\Json Data\obj\Debug\Json Data.csproj.GenerateResource.cache
+C:\setup\Json Data\Json Data\obj\Debug\Json Data.csproj.CoreCompileInputs.cache
+C:\setup\Json Data\Json Data\obj\Debug\Json Data.exe
+C:\setup\Json Data\Json Data\obj\Debug\Json Data.pdb
